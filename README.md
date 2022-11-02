@@ -21,7 +21,7 @@ http://localhost/guvi22/index.html
 ## Getting Started
 
 ![Screenshot (59)](https://github.com/ajayaj2001/guvi22/blob/main/screenshots/login.png?raw=true)
-![Screenshot (55)](https://user-images.githubusercontent.com/85502883/199163372-60c8e164-ef08-42de-bf7b-d08aa79ce501.png)
-![3-User login](https://user-images.githubusercontent.com/85502883/199164515-0d046176-689c-4158-ad7d-fa213d7a3105.png)
+![Screenshot (55)](https://github.com/ajayaj2001/guvi22/blob/main/screenshots/signup.png?raw=true)
+![3-User login](https://github.com/ajayaj2001/guvi22/blob/main/screenshots/welcome.png?raw=true)
 
 
