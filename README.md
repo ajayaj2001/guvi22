@@ -4,6 +4,7 @@
 * dont change the folder name "guvi22" 
 * open with vscode run with xampp
 * create database useraccount and table name useraccount add column (id,name,phonenumber,email,password)
+* open vs terminal run "npm run i" then run "npm run compile:sass"
 
 ### Features:
 * Sign up for an account.
